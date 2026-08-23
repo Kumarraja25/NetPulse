@@ -1,0 +1,9 @@
+src/server
+src/client
+
+logs/*.log
+
+*.o
+*.out
+
+.vscode/
